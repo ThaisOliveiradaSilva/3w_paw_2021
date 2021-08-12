@@ -4,7 +4,7 @@
   "description": "\"# 3w_paw_2021\"",
   "main": "index.js",
   "scripts": {
-    "start": "npm i -g @ionic/cli",
+    "start": "npm i -g nodemon @ionic/cli && ionic info",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
